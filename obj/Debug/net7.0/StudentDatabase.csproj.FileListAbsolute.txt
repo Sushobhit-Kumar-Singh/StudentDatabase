@@ -1,0 +1,15 @@
+C:\MAR02\StudentDatabase\bin\Debug\net7.0\StudentDatabase.exe
+C:\MAR02\StudentDatabase\bin\Debug\net7.0\StudentDatabase.deps.json
+C:\MAR02\StudentDatabase\bin\Debug\net7.0\StudentDatabase.runtimeconfig.json
+C:\MAR02\StudentDatabase\bin\Debug\net7.0\StudentDatabase.dll
+C:\MAR02\StudentDatabase\bin\Debug\net7.0\StudentDatabase.pdb
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.csproj.AssemblyReference.cache
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.AssemblyInfoInputs.cache
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.AssemblyInfo.cs
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.dll
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\refint\StudentDatabase.dll
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.pdb
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\StudentDatabase.genruntimeconfig.cache
+C:\MAR02\StudentDatabase\obj\Debug\net7.0\ref\StudentDatabase.dll
